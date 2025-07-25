@@ -4,7 +4,7 @@ Version: 1.7.1
 Tested up to: 6.0.1
 Requires at least: 5.3
 Requires PHP: 5.6
-Theme URI: https://github.com/berloanoel/wp
+Theme URI: https://github.com/berlianoel/berlianoel-site-template
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
