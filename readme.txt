@@ -4,12 +4,11 @@ Version: 1.7.1
 Tested up to: 6.0.1
 Requires at least: 5.3
 Requires PHP: 5.6
-Author URI: https://github.com/berlianoel
 Theme URI: https://github.com/berloanoel/wp
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Berliano is a light-weight magazine theme made for blogging.
+this template is a light-weight magazine theme made for blogging.
 
 == Resources ==
 
